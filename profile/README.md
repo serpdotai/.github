@@ -1,3 +1,2 @@
-# SERP AI
-
-SERP AI github is over here 👉 [github.com/serp-ai](github.com/serp-ai)
+- SERP AI official github 👉 [github.com/serp-ai](github.com/serp-ai)
+- SERP AI official codehub 👉 [SERP AI Codehub](https://hub.serp.ai/serpdotai)
